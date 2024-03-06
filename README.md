@@ -2,9 +2,9 @@
 <h3 align="center">Machine Learning | R & D | Web Developer </h3>
 
 
-<h3 align="left"> Toy Projects  </h3>
+<h3 align="left"> Toy Projects Link </h3>
 
-<p> <a href="https://theahmadsharif.github.io/work_link/" target="_blank" rel="noreferrer"> Toy Projects https://theahmadsharif.github.io/work_link/ </a> </p>
+<p> <a href="https://theahmadsharif.github.io/work_link/" target="_blank" rel="noreferrer"> https://theahmadsharif.github.io/work_link/ </a> </p>
 
 
 
