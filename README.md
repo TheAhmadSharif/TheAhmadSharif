@@ -13,7 +13,7 @@
 
 <h3 align="left">ML Works:</h3>
 
-<p> <a href="[https://vuejs.org/](https://theahmadsharif.github.io/work_link/)" target="_blank" rel="noreferrer"> Toy Projects  </a> </p>
+<p> <a href="https://theahmadsharif.github.io/work_link/" target="_blank" rel="noreferrer"> Toy Projects  </a> </p>
 
 
 
