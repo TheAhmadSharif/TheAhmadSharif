@@ -1,9 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ahmad Sharif</h1>
-<h3 align="center">Work with Frontend and ML</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=theahmadsharif&label=Profile%20views&color=0e75b6&style=flat" alt="theahmadsharif" /> </p>
-
-- 📫 How to reach me **theahmadsharif@gmail.com**
+<h1 align="center">Hi, I'm Ahmad Sharif</h1>
+<h3 align="center">Machine Learning | R & D | Web Developer </h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
