@@ -3,17 +3,15 @@
 My work arena is **Machine Learning**, **Data Science**, and **Web Development**.
 
 - 👀 I’m interested in ML & Data Science  
-- 🌐 [My Personal Website](https://theahmadsharif.github.io/ahmad.sharif/)  
-- 📫 Reach me at: theahmadsharif@gmail.com  
 - 🏅 [Kaggle Profile](https://www.kaggle.com/ahmadsharif)  
 
 ---
 
 ## 📊 Some of My ML/Data Science Work
 
-- [Football Team Performance Analysis](https://www.kaggle.com/code/ahmadsharif/footballteam-performance-analysis)  
-- [Olympic Medals vs GDP per Capita](https://www.kaggle.com/code/ahmadsharif/olympic-medals-vs-gdp-per-capita)  
+- [Finland Football Team Performance Analysis](https://www.kaggle.com/code/ahmadsharif/footballteam-performance-analysis)
 - [Finland Electricity Production Analysis](https://www.kaggle.com/code/ahmadsharif/finland-electricity-production-analysis)  
+- [Olympic Medals vs GDP per Capita](https://www.kaggle.com/code/ahmadsharif/olympic-medals-vs-gdp-per-capita)  
 
 ---
 
