@@ -1,11 +1,60 @@
-<h1 align="center">Hi, I'm Ahmad Sharif</h1>
-<h3 align="center">Machine Learning | R & D | Web Developer </h3>
+# 👋 Hi, I’m Ahmad Sharif
 
+My work arena is **Machine Learning**, **Data Science**, and **Web Development**.
 
-<h3 align="left"> Toy Projects Link </h3>
+- 👀 I’m interested in ML & Data Science  
+- 🌐 [My Personal Website](https://theahmadsharif.github.io/ahmad.sharif/)  
+- 📫 Reach me at: theahmadsharif@gmail.com  
+- 🏅 [Kaggle Profile](https://www.kaggle.com/ahmadsharif)  
 
-<p> <a href="https://theahmadsharif.github.io/work_link/" target="_blank" rel="noreferrer"> https://theahmadsharif.github.io/work_link/ </a> </p>
+---
 
+## 📊 Some of My ML/Data Science Work
 
+- [Football Team Performance Analysis](https://www.kaggle.com/code/ahmadsharif/footballteam-performance-analysis)  
+- [Olympic Medals vs GDP per Capita](https://www.kaggle.com/code/ahmadsharif/olympic-medals-vs-gdp-per-capita)  
+- [Finland Electricity Production Analysis](https://www.kaggle.com/code/ahmadsharif/finland-electricity-production-analysis)  
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=theahmadsharif&show_icons=true&locale=en&layout=compact" alt="theahmadsharif" /></p>
+---
+
+## 💻 Technologies
+
+### 🖼️ Frontend Frameworks
+
+- **Angular**  
+  [Github Code](https://github.com/TheAhmadSharif/ng.ecom) | [Live Demo](https://theahmadsharif.github.io/ng.ecom/)
+
+- **React**  
+  [Github Code](https://github.com/TheAhmadSharif/react.ecom) | [Live Demo](https://theahmadsharif.github.io/react.ecom/)
+
+- **Vue**
+
+- **Vanilla JS**  
+  [JS Projects Repository](https://github.com/TheAhmadSharif/Web/tree/main/JS)
+
+---
+
+### 🧮 Additional Frontend Projects
+
+- **Calculator**  
+  [Github Code](https://github.com/TheAhmadSharif/calculator) | [Live Demo](https://theahmadsharif.github.io/calculator)
+
+- **Tic Tac Toe Game**  
+  [Github Code](https://github.com/TheAhmadSharif/tictac) | [Live Demo](https://theahmadsharif.github.io/tictac)
+
+- **HTML5 Project**  
+  [Github Code](https://github.com/TheAhmadSharif/html5) | [Live Demo](https://theahmadsharif.github.io/html5/wall.html)
+
+---
+
+### 🧰 Backend Technologies
+
+- **Node.js**  
+  [Node.js Projects](https://github.com/TheAhmadSharif/Web/tree/main/BackEnd/NodeJS_2023)
+
+- **FastAPI**  
+  [FastAPI Projects](https://github.com/TheAhmadSharif/Web/tree/main/BackEnd/Python/FastAPI)
+
+---
+
+📅 **Date:** November 16, 2023
