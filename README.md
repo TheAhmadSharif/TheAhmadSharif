@@ -1,6 +1,6 @@
-# 👋 Hi, I’m Ahmad Sharif
+## Hi, I’m Ahmad Sharif
 
-Passionate **ML**, **Data Analysis**, and **Web Technologies**.
+Passionate about working on **ML**, **Data Analysis**, and **Web Technologies**.
 
 
 ---
