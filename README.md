@@ -13,7 +13,6 @@ Specialized in building production-ready RAG applications using LangChain and ve
 - **Simple RAG Pipeline** - Manual document retrieval with Ollama LLMs [📂 GitHub](https://github.com/TheAhmadSharif/ML_2026/tree/main/03_LLM/02_RAG/01_Simple_RAG)
   
 - **Production RAG System** - LangChain + Chroma + Ollama integration [📂 GitHub](https://github.com/TheAhmadSharif/ML_2026/tree/main/03_LLM/02_RAG/02_Production_RAG)
-  - Document chunking, semantic search, LLM answer generation
 
 - **LangChain Chains & Agents** - Complex LLM workflows [📂 GitHub](https://github.com/TheAhmadSharif/ML_2026/tree/main/03_LLM/03_LangChain)
 
